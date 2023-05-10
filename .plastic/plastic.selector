@@ -1,0 +1,4 @@
+repository "FPSGAME@iaod@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
